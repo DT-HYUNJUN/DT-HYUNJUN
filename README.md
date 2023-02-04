@@ -3,7 +3,7 @@
 </div>
 <br>
 <div align=center>
-	<h2>📚 Tech Stack 📚</h2>
+	<h2>📚 Tech Stack I Used 📚</h2>
 </div>
 
 <div align="center">
