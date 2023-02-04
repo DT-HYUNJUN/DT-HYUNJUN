@@ -26,7 +26,6 @@
 	<br>
 	<img src="https://img.shields.io/badge/RASPBERRY PI-A22846?style=flat&logo=raspberrypi&logoColor=white">
 	<img src="https://img.shields.io/badge/ARDUINO-00979D?style=flat&logo=ARDUINO&logoColor=white">
-	<img src="https://img.shields.io/badge/ARDUINO-00979D?style=flat&logo=ARDUINO&logoColor=white">
 	<br>
 	<img src="https://img.shields.io/badge/GITHUB-181717?style=flat&logo=GitHub&logoColor=white"/>
 	<img src="https://img.shields.io/badge/GIT-F05032?style=flat&logo=Git&logoColor=white"/>
