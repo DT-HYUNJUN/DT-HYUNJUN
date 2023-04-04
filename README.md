@@ -3,7 +3,7 @@
 </div>
 <br>
 <div align=center>
-	<h2>📚 Tech Stack I Used 📚</h2>
+	<p style="font-size: 1.25rem">📚 Tech Stack I Used 📚</p>
 </div>
 
 <div align="center">
@@ -34,7 +34,7 @@
 <br>
 
 <div align=center>
-	<h2>📖 Currently Learning 📖</h2>
+	<p style="font-size: 1.25rem">📖 Currently Learning 📖</p>
 </div>
 
 <div align="center">
@@ -48,7 +48,7 @@
 <br>
 
 <div align=center>
-	<p>🎨 SNS 🎨</p>
+	<p style="font-size: 1.25rem">🎨 SNS 🎨</p>
 </div>
 <div align=center>
 	<a href="https://www.instagram.com/dthyunjun/">
