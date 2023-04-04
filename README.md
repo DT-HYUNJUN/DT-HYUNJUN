@@ -34,14 +34,25 @@
 <br>
 
 <div align=center>
+	<h2>📖 Currently Learning 📖</h2>
+</div>
+
+<div align="center">
+	<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white"/>
+	<img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white"/>
+	<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
+	<br>
+	<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=React&logoColor=white"/>
+</div>
+
+<br>
+
+<div align=center>
 	<p>🎨 SNS 🎨</p>
 </div>
 <div align=center>
 	<a href="https://www.instagram.com/dthyunjun/">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-	</a>
-	<a href="https://code-voyage.tistory.com/">
-		<img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white"/>
 	</a>
 </div>
 <br></br>
