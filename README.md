@@ -43,6 +43,8 @@
 	<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
 	<br>
 	<img src="https://img.shields.io/badge/REACT-61DAFB?style=flat&logo=React&logoColor=white"/>
+	<br>
+	<img src="https://img.shields.io/badge/DJANGO-092E20?style=flat&logo=django&logoColor=white">
 </div>
 
 <br>
