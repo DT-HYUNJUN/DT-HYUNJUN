@@ -7,7 +7,7 @@
 
 <br>
 <div align=center>
-	<p style="font-size: 1.25rem">📚 Tech Stack I Used 📚</p>
+	<p style="font-size: 1.75rem">📚 Tech Stack I Used 📚</p>
 </div>
 
 <div align="center">
@@ -22,7 +22,7 @@
 	<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 	<br>
 	<img src="https://img.shields.io/badge/DJANGO-092E20?style=for-the-badge&logo=django&logoColor=white">
-	<img src="https://img.shields.io/badge/UNITY-FFFFFF?style=for-the-badge&logo=unity&logoColor=black">
+	<img src="https://img.shields.io/badge/UNITY-000000?style=for-the-badge&logo=unity&logoColor=white">
 	<img src="https://img.shields.io/badge/ANDROID STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
 	<img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 	<br>
@@ -38,7 +38,7 @@
 <br>
 
 <div align=center>
-	<p style="font-size: 1.25rem">📖 Currently Learning 📖</p>
+	<p style="font-size: 1.75rem">📖 Currently Learning 📖</p>
 </div>
 
 <div align="center">
@@ -54,7 +54,7 @@
 <br>
 
 <div align=center>
-	<p style="font-size: 1.25rem">🎨 SNS 🎨</p>
+	<p style="font-size: 1.75rem">🎨 SNS 🎨</p>
 </div>
 <div align=center>
 	<a href="https://www.instagram.com/dthyunjun/">
