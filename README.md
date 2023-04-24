@@ -2,8 +2,8 @@
 ### Hello There! I'm Park! 🙋‍♂️
 
 - 👨‍🎓 I've graduated from HOSEO Univ. majored in computer science.
-- 👩‍💻 Studying web programing to become a FE developer.
-- 🎇 Fun fact: I love wathching football⚽ with whiskey🥃 or cocktail🍸.
+- 🌱 Studying web programing to become a FE developer.
+- ⚡ Fun fact: I love wathching football⚽ with whiskey🥃 or cocktail🍸.
 
 <br>
 <div align=center>
@@ -65,7 +65,7 @@
 
 <div align=center>
 
-![DT-HYUNJUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=DT-HYUNJUN&show_icons=true&theme=slateorange)
+![](https://github-readme-streak-stats.herokuapp.com/?user=DT-HYUNJUN&theme=react&hide_border=false)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=anglelous)](https://solved.ac/anglelous/)
 
