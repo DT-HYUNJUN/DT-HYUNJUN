@@ -23,18 +23,7 @@
 	<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
 	<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
 </div>
-
 <br>
-
-<div align=center>
-	<p style="font-size: 1.75rem">🎨 SNS 🎨</p>
-</div>
-<div align=center>
-	<a href="https://www.instagram.com/dthyunjun/">
-		<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/>
-	</a>
-</div>
-<br></br>
 
 <div align=center>
 
