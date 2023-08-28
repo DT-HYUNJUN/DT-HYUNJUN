@@ -10,6 +10,8 @@
 	<p style="font-size: 1.75rem">📖 Currently Learning 📖</p>
 </div> -->
 
+<br>
+
 ### 📖 Learning
 
 <p>
