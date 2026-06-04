@@ -5,6 +5,8 @@
 
 📮 angle307@naver.com
 
+📗 [velog](https://velog.io/@anglelous/posts)
+
 ---
 
 ## Skills
